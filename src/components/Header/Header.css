@@ -1,0 +1,20 @@
+.Header {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1177px;
+  height: 60px;
+  background-color: #d9d9d9;
+  margin-bottom: 19px;
+  padding: 0 10px;
+}
+
+.Header-logo {
+  width: 200px;
+  height: 37px;
+  background: #f1f2ae;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
